@@ -16,8 +16,9 @@ img {
     width: 100%;
 }
 
-.90s-logo {
+.nineties-logo {
     width: 160px;
+    margin: 0 auto;
 }
 
 .wrapper {
@@ -30,4 +31,10 @@ img {
     padding-right: 0;
     padding-bottom: 1.5em;
     padding-left: 0;
+}
+
+ul {
+    display: inline-block;
+    padding: 0 auto;
+    text-align: center;
 }

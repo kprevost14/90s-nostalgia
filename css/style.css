@@ -23,7 +23,11 @@ img {
 
 .wrapper {
     width: 900px;
-    margin: center;
+    margin: 0 auto;
+    padding-top: 1.5em;
+    padding-right: 0;
+    padding-bottom: 1.5em;
+    padding-left: 0;
 }
 
 .header {

@@ -46,3 +46,27 @@ nav {
     padding-right: .75em;
     border-radius: 8px;
 }
+
+section.hero {
+    width: 100%;
+    padding-top: 10em;
+    padding-right: 0;
+    padding-bottom: 10em;
+    padding-left: 0;
+    background-image: url("../images/greatest-90s-fashion-trends.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+section.h1 {
+    width: 75%;
+    padding: .5em auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    text-shadow: 2px;
+    background-color: rgba(0,0,0,.8);
+}

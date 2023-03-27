@@ -37,9 +37,16 @@ img {
     padding-left: 0;
 }
 
-nav {
+nav ul a{
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ul a{
+    
     display: inline-block;
     text-align: center;
+    list-style-type: none;
     padding-top: .5em;
     padding-left: .75em;
     padding-bottom: .5em;
